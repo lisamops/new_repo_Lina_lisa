@@ -6,6 +6,3 @@ This is a change.
 
 testlina
 
-revision2/Lina
-
-revision2 igen/Lina
