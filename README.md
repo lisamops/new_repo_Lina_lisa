@@ -6,4 +6,3 @@ This is a change.
 
 testlina
 
-Lisa is making a change to make a pull request. /Lisa
